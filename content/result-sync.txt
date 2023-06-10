@@ -1,0 +1,1 @@
+result sync texthere is the result: Hey, this is the first text file, Hey, this is the second text filehere is the result: Hey, this is the first text file, Hey, this is the second text filehere is the result: Hey, this is the first text file, Hey, this is the second text file 
